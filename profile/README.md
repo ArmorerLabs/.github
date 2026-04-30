@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/armorer-github-logo.png" alt="Armorer logo" width="180" />
+<img src="https://raw.githubusercontent.com/SecureNeural/Armorer/main/assets/armorer-github-logo.png" alt="Armorer logo" width="180" />
 
 # SecureNeural
 
