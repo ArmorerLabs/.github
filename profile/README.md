@@ -6,6 +6,6 @@
 
 ### The next generation of agent security.
 
-[Website](https://armorerlabs.com) · [Book a meeting](https://armorer-labs-inc.cal.com/armorer-labs/intro)
+[Website](https://armorerlabs.com)
 
 </div>
